@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/BKFOE/Blog-Preview-Card.git)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://bkfoe.github.io/Blog-Preview-Card/)
 
 ## My process
 
@@ -41,9 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-
+Tried to lean in on this challenge and not use media queries to manage the responsiveness. I think I was able to acheive that but there are small parts that I needed to code into specific classes. I am still exploring what's the best way to make designs responsive without coding each individual element. 
 
 ## Author
 
